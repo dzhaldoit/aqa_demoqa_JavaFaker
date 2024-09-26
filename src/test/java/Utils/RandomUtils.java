@@ -52,7 +52,7 @@ public class RandomUtils {
     }
 
     public String State() {
-        return faker.options().option("NCR", "Haryana", "Uttar Pradesh");
+        return faker.options().option("NCR", "Haryana", "Uttar Pradesh", "Rajasthan");
     }
 
     public String City(String state) {
