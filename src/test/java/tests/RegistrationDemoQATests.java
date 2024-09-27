@@ -1,6 +1,6 @@
 package tests;
 
-import Utils.RandomUtils;
+import utils.RandomUtils;
 import org.junit.jupiter.api.Test;
 import pages.RegistrationPage;
 
